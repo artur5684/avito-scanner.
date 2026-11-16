@@ -1,0 +1,6 @@
+# avito-scanner.
+aiogram==3.13.1
+aiohttp
+aiosqlite
+APScheduler
+python-dotenv
